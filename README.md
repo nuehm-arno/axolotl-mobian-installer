@@ -1,5 +1,5 @@
 # axolotl-mobian-installer
-This simple experimental installer gives you Axolotl on your Mobian device
+This simple experimental installer gives you [Axolotl](https://github.com/nanu-c/axolotl) on your Mobian device
 
 # Use
 Please execute the script with
