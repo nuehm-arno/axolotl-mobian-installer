@@ -3,7 +3,7 @@ This simple experimental installer builds [Axolotl](https://github.com/nanu-c/ax
 It uses the commands from the [Axolotl page](https://wiki.mobian-project.org/doku.php?id=axolotl) of the Mobian wiki - section Manual installation.
 
 # Use
-Please check the script before use and execute it with
+Please check the script before use, do a restart and execute it with
 ```
 sh axolotl-installer-mobian_1-2.sh
 ```
