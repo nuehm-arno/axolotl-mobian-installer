@@ -7,7 +7,7 @@ Please check the script before use and execute it with
 sh axolotl-installer-mobian_1-2.sh
 ```
 
-It will take up to 45 minutes.
+It will take up to 45 minutes, so please be patient.
 
 # Feedback
 Feel free to contribute!
