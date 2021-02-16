@@ -11,15 +11,15 @@ sh axolotl-mobian-installer_1-4.sh
 It will take up to 45 minutes, so please be patient.
 
 # First Start
-The very first start of Axolotl is also known to take a bit.
+The very first start of Axolotl on Mobian is also known to take a bit.
 
 # Updates
 Axolotl is under heavy development and there are regular updates. You can use the script for these updates, too.
 Your registration, configuration files and messages should not be changed.
 An update will take around 5-10 minutes.
 
-# Uninstallation
-This has to be done...
+# Uninstall
+Has to be done...
 
 # Disclaimer
 This is an experimental script.
