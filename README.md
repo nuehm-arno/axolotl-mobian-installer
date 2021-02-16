@@ -3,17 +3,23 @@ This simple experimental installer builds [Axolotl](https://github.com/nanu-c/ax
 It uses the commands from the [Axolotl page of the Mobian wiki](https://wiki.mobian-project.org/doku.php?id=axolotl) - section Manual installation.
 
 # Use
-Please check the script before use - a restart is recommended - disable "Automatic Suspend" and execute it with
+Please check the script before use - a restart is recommended - disable "Settings - Power - Automatic Suspend" and execute it with
 ```
-sh axolotl-mobian-installer_1-3.sh
+sh axolotl-mobian-installer_1-4.sh
 ```
 
 It will take up to 45 minutes, so please be patient.
 
+# First Start
+The very first start of Axolotl is also known to take a bit.
+
 # Updates
 Axolotl is under heavy development and there are regular updates. You can use the script for these updates, too.
 Your registration, configuration files and messages should not be changed.
-An update will take around 5 minutes.
+An update will take around 5-10 minutes.
+
+# Uninstallation
+This has to be done...
 
 # Disclaimer
 This is an experimental script.
