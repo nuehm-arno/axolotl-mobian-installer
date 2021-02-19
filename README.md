@@ -5,7 +5,7 @@ It uses the commands from the [Axolotl page of the Mobian wiki](https://wiki.mob
 # Use
 Please check the script before use - a restart is recommended - disable "Settings - Power - Automatic Suspend" and execute it on your phone (not via ssh) with
 ```
-sh axolotl-mobian-installer_1-4.sh
+sh axolotl-mobian-installer_1-5.sh
 ```
 
 It will take up to 45 minutes, so please be patient.
