@@ -3,6 +3,10 @@ This simple experimental installer builds [Axolotl](https://github.com/nanu-c/ax
 It uses the commands from the [Axolotl page of the Mobian wiki](https://wiki.mobian-project.org/doku.php?id=axolotl) - section Manual installation.
 
 # Use
+Download the script with
+```
+git clone https://github.com/nuehm-arno/axolotl-mobian-installer
+```
 Please check the script before use - a restart is recommended - disable "Settings - Power - Automatic Suspend" and execute it on your phone (not via ssh) with
 ```
 sh axolotl-mobian-installer_1-5.sh
