@@ -9,6 +9,7 @@ git clone https://github.com/nuehm-arno/axolotl-mobian-installer
 ```
 Please check the script before use - a restart is recommended - disable "Settings - Power - Automatic Suspend" and execute it on your phone (not via ssh) as user, not root, with
 ```
+cd axolotl-mobian-installer
 sh axolotl_mobian_installer_1-5.sh
 ```
 
