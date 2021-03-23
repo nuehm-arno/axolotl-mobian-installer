@@ -5,7 +5,7 @@ It uses the commands from the [Axolotl page of the Mobian wiki](https://wiki.mob
 # Use
 Download the script with
 ```
-git clone https://github.com/nuehm-arno/axolotl-mobian-installer
+git clone https://github.com/nuehm-arno/axolotl-mobian-installer.git
 ```
 Please check the script before use - a restart is recommended - disable "Settings - Power - Automatic Suspend" and execute it on your phone (not via ssh) as user, not root, with
 ```
