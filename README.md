@@ -1,4 +1,8 @@
 # axolotl-mobian-installer
+The Axolotl installer for Mobian is deprecated in favour of a Makefile found [here](https://github.com/nuehm-arno/axolotl-debian-packaging).
+
+
+# Historical
 This simple experimental installer builds [Axolotl](https://github.com/nanu-c/axolotl) on your Mobian device.
 It uses the commands from the [Axolotl page of the Mobian wiki](https://wiki.mobian-project.org/doku.php?id=axolotl) - section Manual installation.
 
