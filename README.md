@@ -1,5 +1,5 @@
 # axolotl-mobian-installer
-The Axolotl installer for Mobian is deprecated in favour of a Makefile found [here](https://github.com/nuehm-arno/axolotl-debian-packaging).
+The Axolotl installer for Mobian is deprecated in favour of a Makefile found [here](https://github.com/nuehm-arno/axolotl-debian-packaging), which let's you build and install Axolotl.
 
 
 # Historical
